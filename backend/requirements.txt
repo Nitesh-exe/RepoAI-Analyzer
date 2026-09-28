@@ -1,3 +1,9 @@
-psycopg[binary] 
+psycopg[binary]
 python-dotenv
 dj-database-url
+Django>=6.0.0
+djangorestframework>=3.15.0
+django-cors-headers>=4.3.0
+PyJWT>=2.8.0
+cryptography>=41.0.0
+google-genai>=2.25.0
