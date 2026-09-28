@@ -12,9 +12,15 @@ from google.genai import types
 
 logger = logging.getLogger(__name__)
 
-DEFAULT_MODEL = "gemini-2.5-flash"
-FALLBACK_MODELS = ["gemini-1.5-flash", "gemini-2.0-flash", "gemini-1.5-pro"]
+# DEFAULT_MODEL = "gemini-2.5-flash"
+# FALLBACK_MODELS = ["gemini-1.5-flash", "gemini-2.0-flash", "gemini-1.5-pro"]
 
+
+from dotenv import load_dotenv
+load_dotenv()
+
+DEFAULT_MODEL = os.environ["DEFAULT_MODEL"]
+FALLBACK_MODELS = json.loads(os.environ["MODEL_LIST"])
 
 class GeminiClient:
     """Wrapper around Google Gemini client."""

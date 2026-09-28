@@ -1,0 +1,23 @@
+[2026-04-05 20:12:50] | SERVER_EVENT | HealthFedServer Initialized. Mode: Neural Network (MLP)
+[2026-04-05 20:12:50] | SERVER_EVENT | Flower server starting on 0.0.0.0:8080...
+[2026-04-05 20:13:08] | SERVER_EVENT | Round 1 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:08] | SERVER_EVENT | Metrics stored for Round 1.
+[2026-04-05 20:13:09] | SERVER_EVENT | Round 2 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:09] | SERVER_EVENT | Metrics stored for Round 2.
+[2026-04-05 20:13:09] | SERVER_EVENT | Round 3 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:10] | SERVER_EVENT | Metrics stored for Round 3.
+[2026-04-05 20:13:10] | SERVER_EVENT | Round 4 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:10] | SERVER_EVENT | Metrics stored for Round 4.
+[2026-04-05 20:13:10] | SERVER_EVENT | Round 5 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:10] | SERVER_EVENT | Metrics stored for Round 5.
+[2026-04-05 20:13:10] | SERVER_EVENT | Round 6 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:11] | SERVER_EVENT | Metrics stored for Round 6.
+[2026-04-05 20:13:11] | SERVER_EVENT | Round 7 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:11] | SERVER_EVENT | Metrics stored for Round 7.
+[2026-04-05 20:13:11] | SERVER_EVENT | Round 8 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:11] | SERVER_EVENT | Metrics stored for Round 8.
+[2026-04-05 20:13:11] | SERVER_EVENT | Round 9 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:12] | SERVER_EVENT | Metrics stored for Round 9.
+[2026-04-05 20:13:12] | SERVER_EVENT | Round 10 | Aggregating NN weights from 2 nodes.
+[2026-04-05 20:13:12] | SERVER_EVENT | Global Neural Network Model Saved → models/global_model.joblib
+[2026-04-05 20:13:12] | SERVER_EVENT | Metrics stored for Round 10.
